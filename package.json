@@ -1,0 +1,14 @@
+{
+  "name": "test-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Ali Maher",
+  "scripts": {
+    "start": "nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
